@@ -1,4 +1,4 @@
-# Projeto HTML para Iniciantes
+# Trilha de HTML para Iniciantes
 
 Bem-vindo ao projeto HTML para Iniciantes! Este projeto foi criado para ajudar novos desenvolvedores a aprender HTML de forma prática e guiada. Cada módulo contém tarefas que você deve completar para aprimorar suas habilidades.
 
